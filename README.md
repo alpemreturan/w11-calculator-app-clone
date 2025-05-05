@@ -4,13 +4,15 @@
 **DARK THEME (DEFAULT)**
 
 
-![Ekran görüntüsü 2025-05-05 180910](https://github.com/user-attachments/assets/cb8c23b4-1b1b-402f-a5df-64a7efda1e88)
+
+![Ekran görüntüsü 2025-05-05 231314](https://github.com/user-attachments/assets/33b1f0bc-f4c3-481c-8a55-308fa99cdaa0)
 
 
 **LIGHT THEME**
 
 
-![Ekran görüntüsü 2025-05-05 180949](https://github.com/user-attachments/assets/ee45e1a2-4e59-4d85-a18e-14b552e68c05)
+![Ekran görüntüsü 2025-05-05 193115](https://github.com/user-attachments/assets/45d3a17d-4152-4ba7-b38a-162c82657e6f)
+
 
 **IS IT EFFICIENT?**
 
